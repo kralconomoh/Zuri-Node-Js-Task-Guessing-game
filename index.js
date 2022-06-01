@@ -11,7 +11,3 @@ while(true) {
     break
   }
 }
-
-function guessGame(range) {
-  
-}
